@@ -2,6 +2,12 @@
 
 This project is a tool for finding Ethereum (ETH) wallets using randomly generated mnemonics and converting them to private keys. It can be used to search for wallets based on different criteria and perform various operations related to Ethereum transactions.
 
+# Made By Mrdipak
+
+Gmail:- dipakpatild67@gmail.com
+
+DM for Custom Blockchain API for web application or native Android 
+
 ## Features
 
 - **Mnemonic Generation:** Generate random mnemonics for creating Ethereum wallets.
@@ -30,10 +36,17 @@ Ensure you have the following Node.js packages installed:
 To install these dependencies, run the following command:
 
 ```bash
-npm install readline ethers axios fs tiny-secp256k1 bip32 bip39
 
 git clone https://github.com/Dipak000000/XBlock.git
 cd XBlock
 
 pkg install node
+
+npm install readline ethers axios fs tiny-secp256k1 bip32 bip39
+
+for run
+
+node index.js
+
+password:-123456
 
